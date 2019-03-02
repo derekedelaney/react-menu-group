@@ -1,6 +1,6 @@
 # react-menu-group
 
-> A row of Components that adjust to the width of the screen
+> Displays a row of repeating elements and collapses them when the screen is too small.
 
 [![NPM](https://img.shields.io/npm/v/react-menu-group.svg)](https://www.npmjs.com/package/react-menu-group) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
